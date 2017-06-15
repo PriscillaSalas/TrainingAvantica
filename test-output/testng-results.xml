@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="60968" started-at="2017-06-15T16:16:19Z" finished-at="2017-06-15T16:17:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="60968" started-at="2017-06-15T16:16:19Z" finished-at="2017-06-15T16:17:20Z">
+      <class name="avantica.tests.LoginTests">
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:avantica.tests.LoginTests@4439f31e]" name="BeforeTest" is-config="true" duration-ms="7" started-at="2017-06-15T10:16:19Z" finished-at="2017-06-15T10:16:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:avantica.tests.LoginTests@4439f31e]" name="BeforeClass" is-config="true" duration-ms="1" started-at="2017-06-15T10:16:19Z" finished-at="2017-06-15T10:16:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:avantica.tests.LoginTests@4439f31e]" name="setUp" is-config="true" duration-ms="3398" started-at="2017-06-15T10:16:19Z" finished-at="2017-06-15T10:16:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginTc15()[pri:0, instance:avantica.tests.LoginTests@4439f31e]" name="testLoginTc15" duration-ms="743" started-at="2017-06-15T10:16:23Z" finished-at="2017-06-15T10:16:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginTc15 -->
+        <test-method status="PASS" signature="tearDownEach()[pri:0, instance:avantica.tests.LoginTests@4439f31e]" name="tearDownEach" is-config="true" duration-ms="836" started-at="2017-06-15T10:16:23Z" finished-at="2017-06-15T10:16:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownEach -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:avantica.tests.LoginTests@4439f31e]" name="setUp" is-config="true" duration-ms="2867" started-at="2017-06-15T10:16:24Z" finished-at="2017-06-15T10:16:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginTc16()[pri:0, instance:avantica.tests.LoginTests@4439f31e]" name="testLoginTc16" duration-ms="42046" started-at="2017-06-15T10:16:27Z" finished-at="2017-06-15T10:17:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginTc16 -->
+        <test-method status="PASS" signature="tearDownEach()[pri:0, instance:avantica.tests.LoginTests@4439f31e]" name="tearDownEach" is-config="true" duration-ms="783" started-at="2017-06-15T10:17:09Z" finished-at="2017-06-15T10:17:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownEach -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:avantica.tests.LoginTests@4439f31e]" name="setUp" is-config="true" duration-ms="2908" started-at="2017-06-15T10:17:10Z" finished-at="2017-06-15T10:17:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginTc17()[pri:0, instance:avantica.tests.LoginTests@4439f31e]" name="testLoginTc17" duration-ms="3640" started-at="2017-06-15T10:17:13Z" finished-at="2017-06-15T10:17:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginTc17 -->
+        <test-method status="PASS" signature="tearDownEach()[pri:0, instance:avantica.tests.LoginTests@4439f31e]" name="tearDownEach" is-config="true" duration-ms="3722" started-at="2017-06-15T10:17:16Z" finished-at="2017-06-15T10:17:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownEach -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:avantica.tests.LoginTests@4439f31e]" name="tearDown" is-config="true" duration-ms="1" started-at="2017-06-15T10:17:20Z" finished-at="2017-06-15T10:17:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="testCompletion()[pri:0, instance:avantica.tests.LoginTests@4439f31e]" name="testCompletion" is-config="true" duration-ms="0" started-at="2017-06-15T10:17:20Z" finished-at="2017-06-15T10:17:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCompletion -->
+      </class> <!-- avantica.tests.LoginTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
