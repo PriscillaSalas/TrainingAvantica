@@ -66,7 +66,7 @@ public class LoginTests {
 		seleniumUtility.clickElement(By.id("ctl00_LoginView_MemberLoginStatus"));//Hacer click en el link de logout
 	}
 
-	//Este es el método que contiene los pasos del testcase
+	
 	@Test
 	public void testLoginTc17() throws Exception {
 		seleniumUtility.clickElement(By.id("ctl00_LoginView_LoginLink"));//Hacer click al botón de Login
